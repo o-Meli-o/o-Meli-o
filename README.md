@@ -59,6 +59,12 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/o-Meli-o/o-Meli-o/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/o-Meli-o/o-Meli-o/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/o-Meli-o/o-Meli-o/output/github-snake.svg" />
+</picture>
+
 <!--
 **o-Meli-o/o-Meli-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
