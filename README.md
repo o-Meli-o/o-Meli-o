@@ -9,7 +9,6 @@
 -->
 <div align="center">  
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=o-Meli-o&count_private=true&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=o-Meli-o&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
 </div>
