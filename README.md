@@ -1,5 +1,6 @@
 <h2 align="left">Hi There!✨ You can call me Meli.</h2>
-
+<br>
+<br>
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o-Meli-o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
@@ -31,8 +32,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-</hr>
-
+<br>
+<br>
 
 
 ## Social Media:
@@ -42,8 +43,8 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-</hr>
-
+<br>
+<br>
 
 
 
@@ -53,8 +54,8 @@
   <!--  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?" />  -->
   <img src="https://komarev.com/ghpvc/?username=o-meli-o&label=Profile%20views&color=ec9706&style=flat" alt="o-Meli-o" /> </p>
 </div>
-</hr>
-
+<br>
+<br>
 
 
 
