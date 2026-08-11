@@ -15,7 +15,7 @@
 </div>
 -->
 
-<h4 align="left">Techs:</h4>
+<h3 align="center">Techs:</h3>
 
 ###
 
@@ -34,10 +34,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
+<br>
 ###
 
-<h4 align="left">Social Media:</h4>
+<h3 align="center">Social Media:</h3>
 
 ###
 
@@ -46,20 +46,20 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
-
+<br>
 ###
 
-<h4 align="left">Profile Views:</h4>
+<h3 align="center">Profile Views:</h3>
 
 <div align="center">
   <!--  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?" />  -->
   <img src="https://komarev.com/ghpvc/?username=o-meli-o&label=Profile%20views&color=ec9706&style=flat" alt="o-Meli-o" /> </p>
 </div>
-
+<br>
 
 ###
 
-<h4 align="left">GitHub Activity Graph:</h4>
+<h3 align="center">GitHub Activity Graph:</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Meli-o&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
