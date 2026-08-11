@@ -1,6 +1,5 @@
 <h2 align="left">Hi There!✨ You can call me Meli.</h2>
 
-###
 <!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=o-Meli-o&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="170" alt="stats graph"  />
@@ -15,7 +14,7 @@
 </div>
 -->
 
-<h3 align="center">Techs:</h3>
+## Techs:
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -36,7 +35,7 @@
 
 
 
-<h3 align="center">Social Media:</h3>
+## Social Media:
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -48,7 +47,7 @@
 
 
 
-<h3 align="center">Profile Views:</h3>
+## Profile Views:
 
 <div align="center">
   <!--  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?" />  -->
@@ -59,7 +58,7 @@
 
 
 
-<h3 align="center">GitHub Activity Graph:</h3>
+## GitHub Activity Graph:
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Meli-o&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
