@@ -53,8 +53,10 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?"  />
+  <!--  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?" />  -->
+  <img src="https://komarev.com/ghpvc/?username=o-meli-o&label=Profile%20views&color=ec9706&style=flat" alt="o-Meli-o" /> </p>
 </div>
+
 
 ## GitHub Activity Graph
 
