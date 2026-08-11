@@ -56,6 +56,10 @@
   <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?"  />
 </div>
 
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Meli-o&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
+
 ###
 
 <picture>
