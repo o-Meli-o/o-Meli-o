@@ -17,6 +17,7 @@
 
 ## Techs:
 
+<br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -38,6 +39,7 @@
 
 ## Social Media:
 
+<br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -50,6 +52,7 @@
 
 ## Profile Views:
 
+<br>
 <div align="center">
   <!--  <img src="https://profile-counter.glitch.me/o-Meli-o/count.svg?" />  -->
   <img src="https://komarev.com/ghpvc/?username=o-meli-o&label=Profile%20views&color=ec9706&style=flat" alt="o-Meli-o" /> </p>
@@ -61,6 +64,7 @@
 
 ## GitHub Activity Graph:
 
+<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=o-Meli-o&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
 
 
